@@ -9,7 +9,7 @@
   ],
   "sessoes":[
     {"id": 1, "data": "31/09/2024", "horario": "19:00", "valorTicket":"100000,00", "reservaAssentoMeia": "0,4", "descontoMeia":"0,5"},
-    {"id": 1, "data": "31/02/2024", "horario": "20:00", "valorTicket":"100000,00", "reservaAssentoMeia": "0,4", "descontoMeia":"0,5"}
+    {"id": 2, "data": "31/02/2024", "horario": "20:00", "valorTicket":"100000,00", "reservaAssentoMeia": "0,4", "descontoMeia":"0,5"}
   ]
   
 }

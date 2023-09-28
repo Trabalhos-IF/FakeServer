@@ -1,5 +1,5 @@
 {
-  "cinema": [
+  "cinemas": [
     { "id": 1, "nome": "UCI Kinoplex", "cnpj": "11111111111111"},
     { "id": 2, "nome": "Josias cinemas", "cnpj": "21111111111111"}
   ],

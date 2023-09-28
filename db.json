@@ -3,9 +3,13 @@
     { "id": 1, "nome": "UCI Kinoplex", "cnpj": "11111111111111"},
     { "id": 2, "nome": "Josias cinemas", "cnpj": "21111111111111"}
   ],
-  "Filmes": [
+  "filmes": [
     { "id": 1, "titulo": "Halloween", "Sinopse": "Filme bom", "Faixa etaria": "16", "duração": "120 minustos"},
-    {  "id": 1, "titulo": "Fundação", "Sinopse": "Filme bom", "Faixa etaria": "16", "duração": "120 minustos" }
+    {  "id": 2, "titulo": "Fundação", "Sinopse": "Filme bom", "Faixa etaria": "16", "duração": "120 minustos" }
+  ],
+  "sessoes":[
+    {"id": 1, "data": "31/09/2024", "horario": "19:00", "valorTicket":"100000,00", "reservaAssentoMeia": "0,4", "descontoMeia":"0,5"},
+    {"id": 1, "data": "31/02/2024", "horario": "20:00", "valorTicket":"100000,00", "reservaAssentoMeia": "0,4", "descontoMeia":"0,5"}
   ]
   
 }

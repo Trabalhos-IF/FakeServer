@@ -14,7 +14,7 @@
       "id": 2,
       "nome": "Josias",
       "cpf": "21111111111",
-      "email": "josias@siasjo.com",
+      "email":"josias@siasjo.com",
       "telefone": "11111-1111",
       "dataNascimento": "09/09/1990",
       "numeroResidencia": "033",
@@ -52,7 +52,7 @@
   "sessoes": [
     {
       "id": 1,
-      "Cinema": "Josias cinemas",
+      "cinema": "Josias cinemas",
       "sala": "3",
       "filme": "Halloween",
       "data": "31/09/2024",
@@ -63,7 +63,7 @@
     },
     {
       "id": 2,
-      "Cinema": "Josias cinemas",
+      "cinema": "Josias cinemas",
       "sala": "3",
       "filme": "Fundação",
       "data": "31/02/2024",

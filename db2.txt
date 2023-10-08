@@ -1,4 +1,78 @@
 {
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "usuario1",
+      "cpf": "11111111111",
+      "email": "usuario1@usuario.com",
+      "telefone": "11111-1111",
+      "dataNascimento": "01/01/2000",
+      "numeroResidencia": "023",
+      "complemento": "05"
+    },
+    {
+      "id": 2,
+      "nome": "Josias",
+      "cpf": "21111111111",
+      "email": "josias@siasjo.com",
+      "telefone": "11111-1111",
+      "dataNascimento": "09/09/1990",
+      "numeroResidencia": "033",
+      "complemento": "04"
+    }
+  ],
+  "cinemas": [
+    {
+      "id": 1,
+      "nome": "UCI Kinoplex",
+      "cnpj": "11111111111111"
+    },
+    {
+      "id": 2,
+      "nome": "Josias cinemas",
+      "cnpj": "21111111111111"
+    }
+  ],
+  "filmes": [
+    {
+      "id": 1,
+      "titulo": "Halloween",
+      "sinopse": "Filme bom",
+      "faixaEtaria": "16",
+      "duracao": "120 minustos"
+    },
+    {
+      "id": 2,
+      "titulo": "Fundação",
+      "sinopse": "Filme bom",
+      "faixaEtaria": "16",
+      "duracao": "120 minustos"
+    }
+  ],
+  "sessoes": [
+    {
+      "id": 1,
+      "cinema": "Josias cinemas",
+      "sala": "3",
+      "filme": "Halloween",
+      "data": "31/09/2024",
+      "horario": "19:00",
+      "valorTicket": "100000,00",
+      "reservaAssentoMeia": "0,4",
+      "descontoMeia": "0,5"
+    },
+    {
+      "id": 2,
+      "cinema": "Josias cinemas",
+      "sala": "3",
+      "filme": "Fundação",
+      "data": "31/02/2024",
+      "horario": "20:00",
+      "valorTicket": "100000,00",
+      "reservaAssentoMeia": "0,4",
+      "descontoMeia": "0,5"
+    }
+  ],
   "produtoras": [
     {
       "id": 1,

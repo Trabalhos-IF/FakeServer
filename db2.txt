@@ -1,18 +1,96 @@
 {
   "produtoras": [
-    { "id": 1, "nome": "produtora1"},
-    { "id": 2, "nome": "Josias Filmes"}
+    {
+      "id": 1,
+      "nome": "produtora1"
+    },
+    {
+      "id": 2,
+      "nome": "Josias Filmes"
+    }
   ],
   "categorias": [
-    { "id": 1, "nome": "Ação"},
-    { "id": 2, "nome": "Terror"}
+    {
+      "id": 1,
+      "nome": "Ação"
+    },
+    {
+      "id": 2,
+      "nome": "Terror"
+    }
   ],
   "salas": [
-    { "id": 1, "numero da sala": "1", "qtdAssentos": "30"},
-    { "id": 2, "numero da sala": "2", "qtdAssentos": "30"}
+    {
+      "id": 1,
+      "numero da sala": "1",
+      "qtdAssentos": "30"
+    },
+    {
+      "id": 2,
+      "numero da sala": "2",
+      "qtdAssentos": "30"
+    }
   ],
-  "assentos":[
-    {"id": 1, "disponivel: true},
-    {"id": 2, "disponivel: true}
+  "assentos": [
+    {
+      "id": 1,
+      "disponivel": true
+    },
+    {
+      "id": 2,
+      "disponivel": true
+    }
+  ],
+  "proprietarios": [
+    {
+      "id": 1,
+      "nome": "proprietario1",
+      "email": "p1@email"
+    },
+    {
+      "id": 2,
+      "nome": "proprietario2",
+      "email": "p2@email"
+    }
+  ],
+  "tipoTicket": [
+    {
+      "id": 1,
+      "nome": "tipo1"
+    },
+    {
+      "id": 2,
+      "nome": "tipo2"
+    }
+  ],
+  "tipoExibicao": [
+    {
+      "id": 1,
+      "nome": "tipo1"
+    },
+    {
+      "id": 2,
+      "nome": "tipo2"
+    }
+  ],
+  "formaPagamento": [
+    {
+      "id": 1,
+      "nome": "forma1"
+    },
+    {
+      "id": 2,
+      "nome": "forma2"
+    }
+  ],
+  "tipoAssento": [
+    {
+      "id": 1,
+      "nome": "tipo1"
+    },
+    {
+      "id": 2,
+      "nome": "tipo2"
+    }
   ]
 }

@@ -22,12 +22,12 @@
   "salas": [
     {
       "id": 1,
-      "numero da sala": "1",
+      "numeroSala": "1",
       "qtdAssentos": "30"
     },
     {
       "id": 2,
-      "numero da sala": "2",
+      "numeroSala": "2",
       "qtdAssentos": "30"
     }
   ],

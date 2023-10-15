@@ -1,44 +1,57 @@
 {
- "produtoras": [
-    {
-      "id": 1,
-      "nome": "produtora1"
-    },
-    {
-      "id": 2,
-      "nome": "Josias Filmes"
-    }
-  ],
-  "categorias": [
-    {
-      "id": 1,
-      "nome": "Ação"
-    },
-    {
-      "id": 2,
-      "nome": "Terror"
-    }
-  ],
-  "salas": [
-    {
-      "id": 1,
-      "numeroSala": "1",
-      "qtdAssentos": "30"
-    },
-    {
-      "id": 2,
-      "numeroSala": "2",
-      "qtdAssentos": "30"
-    }
-  ],
-  "assentos": [
-    {
-      "id": 1,
-      "disponivel": true
-    },
-    {
-      "id": 2,
-      "disponivel": true
-    }
-  ]
+ "tiposExibicao":[
+      {
+         "id":1,
+         "nome":"tipo1"
+      },
+      {
+         "id":2,
+         "nome":"tipo2"
+      }
+   ],
+   "formasPagamento":[
+      {
+         "id":1,
+         "nome":"forma1"
+      },
+      {
+         "id":2,
+         "nome":"forma2"
+      }
+   ],
+   "tiposAssento":[
+      {
+         "id":1,
+         "nome":"tipo1"
+      },
+      {
+         "id":2,
+         "nome":"tipo2"
+      }
+   ],
+   "administradores":[
+      {
+         "id":1,
+         "nome":"usuario1",
+         "cpf":"11111111111",
+         "email":"usuario1@usuario.com",
+         "telefone":"11111-1111",
+         "dataNascimento":"01/01/2000",
+         "numeroResidencia":"023",
+         "complemento":"05"
+      },
+      {
+         "id":2,
+         "nome":"usuario2",
+         "cpf":"11112221111",
+         "email":"usuario2@usuario.com",
+         "telefone":"1112211-1111",
+         "dataNascimento":"01/01/2000",
+         "numeroResidencia":"023",
+         "complemento":"05"
+      }
+   ]
+
+ 
 }
+

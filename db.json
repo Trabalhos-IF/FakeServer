@@ -1,5 +1,5 @@
 {
- "tiposExibicao":[
+   "tiposExibicao":[
       {
          "id":1,
          "nome":"tipo1"
@@ -51,7 +51,4 @@
          "complemento":"05"
       }
    ]
-
- 
 }
-

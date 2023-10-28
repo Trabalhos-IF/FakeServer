@@ -119,12 +119,14 @@
       {
          "id":1,
          "nome":"proprietario1",
-         "email":"p1@email"
+         "email":"p1@email",
+         "idCinema": 1
       },
       {
          "id":2,
          "nome":"proprietario2",
-         "email":"p2@email"
+         "email":"p2@email",
+         "idCinema": 1
       }
    ],
    "tiposTicket":[

@@ -126,7 +126,7 @@
          "id":2,
          "nome":"proprietario2",
          "email":"p2@email",
-         "idCinema": 1
+         "idCinema": 2
       }
    ],
    "tiposTicket":[

@@ -41,7 +41,7 @@
          "duracao":"120 minustos"
       }
    ],
-  "tiposTicket":[
+ "tiposAssento":[
       {
          "id":1,
          "nome":"tipo1"
@@ -51,4 +51,3 @@
          "nome":"tipo2"
       }
    ]
-}

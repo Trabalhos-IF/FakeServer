@@ -41,14 +41,16 @@
          "duracao":"120 minustos"
       }
    ],
-   "tiposAssento":[
+   "salas":[
       {
          "id":1,
-         "nome":"tipo1"
+         "numeroSala":"1",
+         "qtdAssentos":"30"
       },
       {
          "id":2,
-         "nome":"tipo2"
+         "numeroSala":"2",
+         "qtdAssentos":"30"
       }
    ]
 }

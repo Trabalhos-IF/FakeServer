@@ -41,14 +41,14 @@
          "duracao":"120 minustos"
       }
    ],
-   "tiposExibicao":[
+   "categorias":[
       {
          "id":1,
-         "nome":"tipo1"
+         "nome":"Ação"
       },
       {
          "id":2,
-         "nome":"tipo2"
+         "nome":"Terror"
       }
    ]
 }

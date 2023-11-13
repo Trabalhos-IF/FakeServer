@@ -41,7 +41,7 @@
          "duracao":"120 minustos"
       }
    ],
-   "tiposAssento":[
+   "tiposExibicao":[
       {
          "id":1,
          "nome":"tipo1"

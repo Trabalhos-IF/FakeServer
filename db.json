@@ -41,16 +41,14 @@
          "duracao":"120 minustos"
       }
    ],
-   "salas":[
+   "tiposTicket":[
       {
          "id":1,
-         "numeroSala":"1",
-         "qtdAssentos":"30"
+         "nome":"tipo1"
       },
       {
          "id":2,
-         "numeroSala":"2",
-         "qtdAssentos":"30"
+         "nome":"tipo2"
       }
    ]
 }

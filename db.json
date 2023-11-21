@@ -1,54 +1,24 @@
 {
-   "proprietarios":[
+    "salas":[
       {
          "id":1,
-         "nome":"proprietario1",
-         "email":"p1@email",
-         "idCinema":1
+         "numeroSala":"1",
+         "qtdAssentos":"30"
       },
       {
          "id":2,
-         "nome":"proprietario2",
-         "email":"p2@email",
-         "idCinema":2
+         "numeroSala":"2",
+         "qtdAssentos":"30"
       }
    ],
-   "cinemas":[
+   "assentos":[
       {
          "id":1,
-         "nome":"UCI Kinoplex",
-         "cnpj":"11111111111111"
+         "disponivel":true
       },
       {
          "id":2,
-         "nome":"Josias cinemas",
-         "cnpj":"21111111111111"
+         "disponivel":true
       }
    ],
-   "filmes":[
-      {
-         "id":1,
-         "titulo":"Halloween",
-         "sinopse":"Filme bom",
-         "faixaEtaria":"16",
-         "duracao":"120 minustos"
-      },
-      {
-         "id":2,
-         "titulo":"Fundação",
-         "sinopse":"Filme bom",
-         "faixaEtaria":"16",
-         "duracao":"120 minustos"
-      }
-   ],
-   "categorias":[
-      {
-         "id":1,
-         "nome":"Ação"
-      },
-      {
-         "id":2,
-         "nome":"Terror"
-      }
-   ]
 }

@@ -1,28 +1,30 @@
 {
-   "salas":[
+ "cinemas":[
       {
          "id":1,
-         "numeroSala":"1",
-         "qtdAssentos":"30",
-         "idCinema":"2"
+         "nome":"UCI Kinoplex",
+         "cnpj":"11111111111111"
       },
       {
          "id":2,
-         "numeroSala":"2",
-         "qtdAssentos":"30",
-         "idCinema":"1"
+         "nome":"Josias cinemas",
+         "cnpj":"21111111111111"
       }
    ],
-   "assentos":[
+   "filmes":[
       {
          "id":1,
-         "disponivel":true,
-         "idSala":"1"
+         "titulo":"Halloween",
+         "sinopse":"Filme bom",
+         "faixaEtaria":"16",
+         "duracao":"120 minustos"
       },
       {
          "id":2,
-         "disponivel":true,
-         "idSala":2
+         "titulo":"Fundação",
+         "sinopse":"Filme bom",
+         "faixaEtaria":"16",
+         "duracao":"120 minustos"
       }
    ],
    "sessoes":[

@@ -27,46 +27,26 @@
          "duracao":"120 minustos"
       }
    ],
-   "sessoes":[
+   "categorias":[
       {
          "id":1,
-         "cinema":"Josias cinemas",
-         "sala":"3",
-         "filme":"Halloween",
-         "data":"31/09/2024",
-         "horario":"19:00",
-         "valorTicket":"100000,00",
-         "reservaAssentoMeia":"0,4",
-         "descontoMeia":"0,5",
-         "idFilme":"1",
-         "idCinema":"2"
+         "nome":"Ação"
       },
       {
          "id":2,
-         "cinema":"Josias cinemas",
-         "sala":"3",
-         "filme":"Fundação",
-         "data":"31/02/2024",
-         "horario":"20:00",
-         "valorTicket":"100000,00",
-         "reservaAssentoMeia":"0,4",
-         "descontoMeia":"0,5",
-         "idFilme":"2",
-         "idCinema":"1"
+         "nome":"Terror"
       }
    ],
-   "proprietarios":[
+   "salas":[
       {
          "id":1,
-         "nome":"proprietario1",
-         "email":"p1@email",
-         "idCinema": 1
+         "numeroSala":"1",
+         "qtdAssentos":"30"
       },
       {
          "id":2,
-         "nome":"proprietario2",
-         "email":"p2@email",
-         "idCinema": 2
+         "numeroSala":"2",
+         "qtdAssentos":"30"
       }
    ]
 }

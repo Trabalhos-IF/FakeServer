@@ -23,14 +23,16 @@
          "titulo":"Halloween",
          "sinopse":"Filme bom",
          "faixaEtaria":"16",
-         "duracao":"120 minustos"
+         "duracao":"120 minustos",
+         "img" : "C:\Users\Aluno\Desktop"
       },
       {
          "id":2,
          "titulo":"Fundação",
          "sinopse":"Filme bom",
          "faixaEtaria":"16",
-         "duracao":"120 minustos"
+         "duracao":"120 minustos",
+         "img": "C:\Users\Aluno\Desktop"
       }
    ],
    "categorias":[

@@ -17,24 +17,24 @@
          "telefone": "999558504"
       }
    ],
-   "filmes":[
-      {
-         "id":1,
-         "titulo":"Halloween",
-         "sinopse":"Filme bom",
-         "faixaEtaria":"16",
-         "duracao":"120 minustos",
-         "img" : "C:\Users\Aluno\Desktop"
-      },
-      {
-         "id":2,
-         "titulo":"Fundação",
-         "sinopse":"Filme bom",
-         "faixaEtaria":"16",
-         "duracao":"120 minustos",
-         "img": "C:\Users\Aluno\Desktop"
-      }
-   ],
+  "filmes": [
+    {
+      "id": 1,
+      "titulo": "Halloween",
+      "sinopse": "Filme bom",
+      "faixaEtaria": "16",
+      "duracao": "120 minutos",
+      "img": "C:\\Users\\Aluno\\Desktop\\a.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "Fundação",
+      "sinopse": "Filme bom",
+      "faixaEtaria": "16",
+      "duracao": "120 minutos",
+      "img": "C:\\Users\\Aluno\\Desktop\\a.jpg"
+    }
+  ],
    "categorias":[
       {
          "id":1,

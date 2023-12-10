@@ -24,6 +24,8 @@
       "sinopse": "Filme bom",
       "faixaEtaria": "16",
       "duracao": "120 minutos",
+      "idCategoria": 2,
+      "idProdutora": 2,
       "img": "https://cinemais.vendabem.com/arquivos/arquivos_cinema/cartazes_filmes/f32.jpeg"
     },
     {
@@ -32,6 +34,8 @@
       "sinopse": "Filme bom",
       "faixaEtaria": "16",
       "duracao": "120 minutos",
+      "idCategoria": 1,
+      "idProdutora": 2,
       "img": "https://cinemais.vendabem.com/arquivos/arquivos_cinema/cartazes_filmes/f51.jpeg"
     },
      {
@@ -39,7 +43,9 @@
       "titulo": "As Marvels",
       "sinopse": "Filme bom",
       "faixaEtaria": "16",
-      "duracao": "120 minutos",
+      "duracao": "90 minutos",
+       "idCategoria": 2,
+      "idProdutora": 1,
       "img": "https://ingresso-a.akamaihd.net/prd/img/movie/as-marvels/ce5d50ca-1876-4d76-b154-1fb6dad57b11.webp"
     }
   ],

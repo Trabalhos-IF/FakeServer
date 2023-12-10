@@ -20,19 +20,27 @@
   "filmes": [
     {
       "id": 1,
-      "titulo": "Halloween",
+      "titulo": "Jogos Vorazes - A cantiga dos pássaros e das serpentes",
       "sinopse": "Filme bom",
       "faixaEtaria": "16",
       "duracao": "120 minutos",
-      "img": "C:/Users/Aluno/Desktop"
+      "img": "https://cinemais.vendabem.com/arquivos/arquivos_cinema/cartazes_filmes/f32.jpeg"
     },
     {
       "id": 2,
-      "titulo": "Fundação",
+      "titulo": "Napoleão",
       "sinopse": "Filme bom",
       "faixaEtaria": "16",
       "duracao": "120 minutos",
-      "img": "C:/Users/Aluno/Desktop"
+      "img": "https://cinemais.vendabem.com/arquivos/arquivos_cinema/cartazes_filmes/f51.jpeg"
+    },
+     {
+      "id": 3,
+      "titulo": "As Marvels",
+      "sinopse": "Filme bom",
+      "faixaEtaria": "16",
+      "duracao": "120 minutos",
+      "img": "https://ingresso-a.akamaihd.net/prd/img/movie/as-marvels/ce5d50ca-1876-4d76-b154-1fb6dad57b11.webp"
     }
   ],
    "categorias":[
